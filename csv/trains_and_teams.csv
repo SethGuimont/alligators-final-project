@@ -1,0 +1,49 @@
+﻿ST,ST-100,Solution Train 100,null
+ST,ST-200,Solution Train 200,null
+ST,ST-300,Solution Train 300,null
+ART,ART-400,Agile Release Train  400 (ST100),ST-100
+ART,ART-401,Agile Release Train  401 (ST100),ST-100
+ART,ART-402,Agile Release Train  402 (ST100),ST-100
+ART,ART-403,Agile Release Train  403 (ST100),ST-100
+ART,ART-404,Agile Release Train  404 (ST100),ST-100
+ART,ART-405,Agile Release Train  405 (ST100) XYZ,ST-100
+ART,ART-500,Agile Release Train  500 (ST200),ST-200
+ART,ART-501,Agile Release Train  501 (ST200),ST-200
+ART,ART-502,Agile Release Train  502 (ST200),ST-200
+ART,ART-503,Agile Release Train  503 (ST200),ST-200
+ART,ART-504,Agile Release Train  504 (ST200),ST-200
+ART,ART-600,Agile Release Train  600 (ST300),ST-300
+ART,ART-601,Agile Release Train  601 (ST300),ST-300
+ART,ART-602,Agile Release Train  602 (ST300),ST-300
+ AT , AT-700 , Agile Team 700 ,ART-400
+ AT , AT-701 , Agile Team 701 ,ART-400
+ AT , AT-702 , Agile Team 702 ,ART-401
+ AT , AT-703 , Agile Team 703 ,ART-401
+ AT , AT-704 , Agile Team 704 ,ART-402
+ AT , AT-705 , Agile Team 705 ,ART-403
+ AT , AT-706 , Agile Team 706 ,ART-403
+ AT , AT-707 , Agile Team 707 ,ART-403
+ AT , AT-708 , Agile Team 708 ,ART-403
+ AT , AT-709 , Agile Team 709 ,ART-404
+ AT , AT-710 , Agile Team 710 ,ART-405
+AT,AT-800,800 Agile Team,ART-600
+AT,AT-801,801 Agile Team,ART-601
+AT,AT-802,802 Agile Team,ART-601
+AT,AT-803,803 Agile Team,ART-600
+AT,AT-804,804 Agile Team,ART-601
+AT,AT-805,805 Agile Team,ART-602
+AT,AT-806,806 Agile Team,ART-600
+AT,AT-807,807 Agile Team,ART-602
+AT,AT-808,808 Agile Team,ART-602
+AT,AT-809,809 Agile Team,ART-600
+AT,AT-810,810 Agile Team,ART-602
+AT,AT-abc1,Agile Team 1000 1,ART-500
+AT,AT-abc2,Agile Team 1000 2,ART-501
+AT,AT-abc3,Agile Team 1000 3,ART-502
+AT,AT-abc4,Agile Team 1000 4,ART-503
+AT,AT-abc5,Agile Team 1000 5,ART-504
+AT,AT-abc6,Agile Team 1000 6,ART-500
+AT,AT-abc7,Agile Team 1000 7,ART-501
+AT,AT-abc8,Agile Team 1000 8,ART-502
+AT,AT-abc9,Agile Team 1000 9,ART-503
+AT,AT-abc10,Agile Team 1000 10,ART-504
