@@ -1,4 +1,3 @@
-
 <?php
 
   $nav_selected = "CAPACITY"; // set the current page; options: TRAINS, ORG, CAPACITY, TRAINING, REPORTS, SETUP, LOGIN, HELP, SEARCH
@@ -12,7 +11,7 @@
   <div class="right-content">
     <div class="container">
 
-        <h3>Capacity Roll Up</h3>
+        <h3 style = "color: #01B0F1;">Capacity Roll Up</h3>
 		<p><b>For The Entire Program Increment PI-200 = 5500 Story Points</b></p>
 		
 		<div>Show
@@ -29,7 +28,7 @@
                width="100%" style="width: 100px;">
                <thead>
                  <tr id="table-first-row">
-                   <<th>Type</th>
+                   <th>Type</th>
                    <th>ID</th>
                    <th>Name</th>
                    <th>Scrum Master /RTE /STE</th>
